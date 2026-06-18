@@ -15,7 +15,7 @@ The dashboard provides actionable insights into:
 - Subject Analysis
 - Student Distribution
 - Stream-wise Performance
-- Gender Analysis
+- Gender Analysis    
 - City-wise Enrollment
 - Admission Trends
 
