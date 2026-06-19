@@ -17,7 +17,7 @@ The dashboard provides actionable insights into:
 - Stream-wise Performance
 - Gender Analysis    
 - City-wise Enrollment
-- Admission Trends
+- Admission Trends   
 
 This project demonstrates advanced Excel Dashboarding skills, data visualization techniques, KPI design, and business-oriented reporting.
 
